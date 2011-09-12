@@ -12,15 +12,15 @@ Installation
 
 Get the PeepOpen.app and open it at least once to approve the Mac OS X security dialog.
 
-[Vundle][vundle]:
+#### [Vundle][vundle]:
 
 Add `Bundle 'twe4ked/vim-peepopen'` to your `.vimrc` then start vim and run `:BundleInstall`.
 
-Standard:
+#### Standard:
 
 Copy `peepopen.vim` to your `~/.vim/plugin` directory.
 
-With Tim Pope's [Pathogen](http://github.com/tpope/vim-pathogen):
+#### With Tim Pope's [Pathogen](http://github.com/tpope/vim-pathogen):
 
 Copy the entire `vim-peepopen` plugin directory to your `~/.vim/bundle` directory.
 
