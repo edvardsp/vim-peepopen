@@ -3,6 +3,10 @@ vim-peepopen
 
 A plugin for the Vim text editor. PeepOpen provides fuzzy search of filenames and paths in a programming project.
 
+### About this fork
+
+The only difference with this fork is the folder structure to make it work with [Vundle][vundle].
+
 Installation
 ------------
 
@@ -31,3 +35,4 @@ Credits
 - Initial Vim Plugin by [Andrew Stewart](http://www.airbladesoftware.com/).
 - Some plugin boilerplate from [Rein Henrichs](http://reinh.com/).
 
+[vundle]: https://github.com/gmarik/vundle
